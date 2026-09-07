@@ -8,7 +8,8 @@ Parametric OpenSCAD script generating a segmented battery enclosure for DIY elec
 *Fully assembled board with the printed enclosure.*
 
 <img width="3000" height="4000" alt="20260802_194715" src="https://github.com/user-attachments/assets/d636ecf0-d376-4447-ba56-ff26bc1e5c03" />
-<img width="1042" height="675" alt="Zrzut ekranu 2026-09-07 074402" src="https://github.com/user-attachments/assets/46c0ae07-9fd0-48b9-9fbb-4b0d3dcd8017" />
+<img width="1022" height="595" alt="Zrzut ekranu 2026-09-07 080557" src="https://github.com/user-attachments/assets/bfb60784-5317-4052-a4b9-1ef877d7ca47" />
+
 *Printed segments connected together on the workbench.*
 
 <img width="3000" height="4000" alt="20260802_194616" src="https://github.com/user-attachments/assets/5094fdd9-b292-4d89-a2a5-3df46966445a" />
