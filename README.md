@@ -8,12 +8,12 @@ Parametric OpenSCAD script generating a segmented battery enclosure for DIY elec
 *Fully assembled board with the printed enclosure.*
 
 <img width="3000" height="2335" alt="20260802_194715" src="https://github.com/user-attachments/assets/877908eb-af6a-4523-ac37-41317d589025" />
-
 <img width="1022" height="595" alt="Zrzut ekranu 2026-09-07 080557" src="https://github.com/user-attachments/assets/bfb60784-5317-4052-a4b9-1ef877d7ca47" />
 
 *Printed segments connected together on the workbench.*
 
 <img width="3000" height="4000" alt="20260802_194616" src="https://github.com/user-attachments/assets/5094fdd9-b292-4d89-a2a5-3df46966445a" />
+<img width="1006" height="712" alt="Zrzut ekranu 2026-09-07 080851" src="https://github.com/user-attachments/assets/787317af-bd2a-4508-8faf-b62edf54e2b7" />
 *Detail of a single printed enclosure segment showing the Z-joint.*
 
 ## Print Bed Requirements
