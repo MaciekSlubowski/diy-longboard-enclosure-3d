@@ -1,30 +1,19 @@
 # Electric Longboard Battery Enclosure
 
 Parametric OpenSCAD script generating a segmented battery enclosure for DIY electric skateboards. The model is divided into interlocking sections using Z-staggered joints to allow printing on standard desktop 3D printers.
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/68dd4300-88f2-4756-a79b-0acde0fa1e1e" width="700" alt="Fully assembled board">
+  <img src="https://github.com/user-attachments/assets/877908eb-af6a-4523-ac37-41317d589025" width="350" />
+  <img src="https://github.com/user-attachments/assets/bfb60784-5317-4052-a4b9-1ef877d7ca47" width="350" />
 </p>
 
-<p align="center">
-  <em>Fully assembled board with the printed enclosure.</em>
-</p>
+<p align="center"><em>Printed segments connected together on the workbench.</em></p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/877908eb-af6a-4523-ac37-41317d589025" width="450" alt="Printed segments">
-  <img src="https://://github.com/user-attachments/assets/bfb60784-5317-4052-a4b9-1ef877d7ca47" width="450" alt="OpenSCAD screenshot">
-nnected together on the workbench.</em>
+  <img src="https://github.com/user-attachments/assets/5094fdd9-b292-4d89-a2a5-3df46966445a" width="350" />
+  <img src="https://github.com/user-attachments/assets/787317af-bd2a-4508-8faf-b62edf54e2b7" width="350" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5094fdd9-b292-4d89-a2a5-3df46966445a" width="450" alt="Single segment">
-  <img src="https://github.com/user-attachments/assets/787317af-bd2a-4508-8faf-b62edf54e2b7" width="450" alt="Z-joint detail">
-</p>
-
-<p align="center">
-  <em>Detail of a single printed enclosure segment showing the Z-joint.</em>
-</p>
-
+<p align="center"><em>Detail of a single printed enclosure segment showing the Z-joint.</em></p>
 
 ## Print Bed Requirements
 
