@@ -1,6 +1,14 @@
 # Electric Longboard Battery Enclosure
 
 Parametric OpenSCAD script generating a segmented battery enclosure for DIY electric skateboards. The model is divided into interlocking sections using Z-staggered joints to allow printing on standard desktop 3D printers.
+
+
+
+<img width="4000" height="3000" alt="20260902_164418" src="https://github.com/user-attachments/assets/68dd4300-88f2-4756-a79b-0acde0fa1e1e" />
+*Fully assembled board with the printed enclosure.*
+
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/877908eb-af6a-4523-ac37-41317d589025" width="350" />
   <img src="https://github.com/user-attachments/assets/bfb60784-5317-4052-a4b9-1ef877d7ca47" width="350" />
