@@ -8,6 +8,7 @@ Parametric OpenSCAD script generating a segmented battery enclosure for DIY elec
 *Fully assembled board with the printed enclosure.*
 
 <img width="3000" height="4000" alt="20260802_194715" src="https://github.com/user-attachments/assets/d636ecf0-d376-4447-ba56-ff26bc1e5c03" />
+<img width="1042" height="675" alt="Zrzut ekranu 2026-09-07 074402" src="https://github.com/user-attachments/assets/46c0ae07-9fd0-48b9-9fbb-4b0d3dcd8017" />
 *Printed segments connected together on the workbench.*
 
 <img width="3000" height="4000" alt="20260802_194616" src="https://github.com/user-attachments/assets/5094fdd9-b292-4d89-a2a5-3df46966445a" />
@@ -56,8 +57,5 @@ Change the `part_to_print` variable in the script, render (F6), and export to ST
 * `part_to_print = 3;` - Renders Part 3 (Middle-right).
 * `part_to_print = 4;` - Renders Part 4 (Right end / Tail).
 
-## License
+This project is open-source and provided strictly for personal, educational, and non-commercial purposes. You are free to explore, modify, and learn from the codebase. **If you wish to use this project for commercial purposes, please contact me.**
 
-**Credits & Third-Party Assets:**
-* **Typography:** The UI utilizes the "Super Pixel" font, which is licensed for PERSONAL USE ONLY.
-* **Commercial Restriction:** If you intend to fork or adapt this project for any commercial purposes, you must either replace this font or purchase a valid commercial license directly from the author at allsuperfont.com.
